@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Madhukant</h1>
 <h3 align="center">A passionate Cloud & Backend Developer from India</h3>
 
-🔧 Cloud and Backend Developer with 3 years of experience in building scalable backend solutions using Python (Django,Fastapi).  
+🔧 Cloud and Backend Developer with 2.9 years of experience in building scalable backend solutions using Python (Django), PHP (CodeIgniter), and Node.js (Express.js).  
 🚀 Skilled in deploying applications on AWS, implementing CI/CD pipelines, and ensuring secure and high-availability systems.  
-💻 Currently working on **fastapi-multitenant**.  
 
 ---
 
@@ -21,6 +20,16 @@ At **SAGSOL**, I contributed to the development of the **AnyAudit** platform, fo
 ### 🎓 Education
 **B.Tech in Computer Science and Engineering**  
 Dr. A.P.J. Abdul Kalam Technical University, 2024
+
+---
+
+### 📌 Highlight Projects
+
+- 🚀 [FastAPI Multi-Tenant SaaS Boilerplate](https://github.com/madhukantsingh/fastapi-multitenant)  
+  A scalable and secure boilerplate using FastAPI with support for multi-tenant architecture, PostgreSQL, JWT, and role-based access control.
+
+- 👨‍💼 [Employee Portal](https://github.com/madhukantsingh/EmployeePortal)  
+  A complete employee management system using PHP CodeIgniter with features like attendance tracking, user roles, and secure login.
 
 ---
 
@@ -49,9 +58,10 @@ Dr. A.P.J. Abdul Kalam Technical University, 2024
 
 ---
 
-### 🛠️ Ongoing Learning & Projects
-- Working on **multi-tenant SaaS platforms** using FastAPI
-- Exploring **Kubernetes** and **Terraform** for infrastructure as code
+### 🛠️ Ongoing Learning & Interests
+- Multi-tenant SaaS architectures
+- Kubernetes and Terraform
+- Secure backend and DevOps automation
 
 ---
 
