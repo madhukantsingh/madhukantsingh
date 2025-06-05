@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhukant</h1>
 <h3 align="center">A passionate Cloud & Backend Developer from India</h3>
 
-🔧 Cloud and Backend Developer with 2.9 years of experience in building scalable backend solutions using Python (Django), PHP (CodeIgniter), and Node.js (Express.js).  
+🔧 Cloud and Backend Developer with 2 years of experience in building scalable backend solutions using Python (Django), PHP (CodeIgniter), and Node.js (Express.js).  
 🚀 Skilled in deploying applications on AWS, implementing CI/CD pipelines, and ensuring secure and high-availability systems.  
 
 ---
